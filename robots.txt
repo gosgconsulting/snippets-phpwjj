@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gosgconsulting.github.io/snippets-phpwjj/sitemap.xml
